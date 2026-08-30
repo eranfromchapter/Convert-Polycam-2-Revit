@@ -1,0 +1,24 @@
+# Secrets — never commit
+.env
+
+# Runtime state (manifests, seen-deals, matching tables, review CSVs)
+state/*
+!state/.gitkeep
+
+# Polycam persistent browser profile (contains auth cookies)
+polycam-profile/
+
+# Local download staging for zip-relay lane
+tmp/
+downloads/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db

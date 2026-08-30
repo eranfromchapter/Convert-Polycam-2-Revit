@@ -1,0 +1,52 @@
+{
+  "hub": {
+    "folders": {
+      "plans": "Plans and 3D",
+      "revit": "Revit"
+    },
+    "url_fetch_max_bytes": 52428800,
+    "content_base64_max_bytes": 3145728,
+    "endpoints": {
+      "_comment": "PLACEHOLDERS — set the real paths from the dev's answer to Q1 (docs/DEV_QUESTIONS.md). hub_client refuses to run while a needed path still starts with PLACEHOLDER.",
+      "upload_document": "PLACEHOLDER:/api/documents/upload",
+      "find_project_documents": "PLACEHOLDER:/api/documents/find",
+      "list_sales_deals": "PLACEHOLDER:/api/sales/deals",
+      "list_finance_projects": "PLACEHOLDER:/api/finance/projects",
+      "get_project_section": "PLACEHOLDER:/api/projects/section"
+    },
+    "extension_allowlist_verified": [".csv", ".txt", ".dxf", ".jpg"],
+    "extension_allowlist_pending_probe": [".pdf", ".glb", ".obj", ".mtl", ".ply", ".laz", ".rvt", ".png", ".svg"],
+    "extension_denylist_verified": [".zip", ".md"]
+  },
+  "polycam": {
+    "library_url": "https://poly.cam/library",
+    "capture_url_template": "https://poly.cam/capture/{capture_id}",
+    "exports": [
+      {"kind": "floorplan_all", "menu_path": ["Floor Plan", "Zip (all)"], "container": "zip", "lane": "relay",
+       "members": [".png", ".dxf", ".svg", ".pdf", ".csv"]},
+      {"kind": "mesh_glb", "menu_path": ["Mesh", "GLTF"], "container": "file", "lane": "url", "ext": ".glb"},
+      {"kind": "mesh_obj", "menu_path": ["Mesh", "OBJ"], "container": "zip", "lane": "relay",
+       "members": [".obj", ".mtl", ".jpg"]},
+      {"kind": "pointcloud_laz", "menu_path": ["Point Cloud", "LAS"], "container": "file", "lane": "url", "ext": ".laz"},
+      {"kind": "pointcloud_ply", "menu_path": ["Point Cloud", "PLY"], "container": "file", "lane": "url", "ext": ".ply"},
+      {"kind": "spatial_report", "menu_path": ["Spatial Report"], "container": "file", "lane": "url", "ext": ".pdf"}
+    ]
+  },
+  "matching": {
+    "auto_accept_confidence": 0.9,
+    "review_csv": "state/matching_review.csv",
+    "table": "state/matching_table.csv"
+  },
+  "state": {
+    "dir": "state",
+    "manifest": "state/manifest.json",
+    "deals_seen": "state/deals_seen.json",
+    "alerts_log": "state/alerts.log"
+  },
+  "f2": {
+    "revit_template": "C:\\ProgramData\\Autodesk\\RVT 2027\\Templates\\English-Imperial\\default.rte",
+    "workdir_template": "C:\\ChapterProjects\\{addr_slug}\\03_Revit",
+    "sheet_size": "E1 30x42",
+    "plan_scale": "1/4\" = 1'-0\""
+  }
+}
