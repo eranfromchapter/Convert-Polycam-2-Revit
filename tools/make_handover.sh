@@ -33,7 +33,11 @@ fi
 # Match token VALUES, not the vocabulary: a real signed token is long, so a
 # 16+ char query value or bearer token trips this while prose about "tempauth
 # URLs" and the redaction test's dummy "?sig=SECRET" correctly do not.
-SECRET_RE='([?&](tempauth|sig|sv|se|st|token|access_token|code)=[A-Za-z0-9%._~+/-]{16,}|Bearer[[:space:]]+[A-Za-z0-9._-]{20,}|xox[baprs]-[A-Za-z0-9-]{10,})'
+# NOTE the second alternative: a SharePoint sharing link carries its token in
+# the PATH (https://host/:t:/s/site/IQDQ0It4Qw...), not the query string. That
+# link IS the credential. src/hub_client.py redact_url() only strips query
+# strings, so it does NOT neutralise these — the scanner has to catch them.
+SECRET_RE='([?&](tempauth|sig|sv|se|st|token|access_token|code)=[A-Za-z0-9%._~+/-]{16,}|/:[a-z]:/[a-z]/[^/[:space:]]+/[A-Za-z0-9_-]{20,}|Bearer[[:space:]]+[A-Za-z0-9._-]{20,}|xox[baprs]-[A-Za-z0-9-]{10,})'
 if grep -rlIE "$SECRET_RE" "$STAGE" 2>/dev/null | grep -q .; then
   echo "ABORT: token-shaped value found in staged files:" >&2
   grep -rlIE "$SECRET_RE" "$STAGE" >&2
