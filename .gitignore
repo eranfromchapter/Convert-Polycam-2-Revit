@@ -12,6 +12,9 @@ polycam-profile/
 tmp/
 downloads/
 
+# Built handover archives (tools/make_handover.sh)
+dist/
+
 # Python
 __pycache__/
 *.pyc
