@@ -1,0 +1,790 @@
+{
+  "_comment": "LIVE snapshot of the reference project's Files tab, captured 2026-08-30 via the HUB MCP (hub_find_project_documents, read-only, 97/97 files, no truncation). Download/preview/edit URLs were DELIBERATELY STRIPPED: SharePoint download links carry signed query tokens and the /:t:/s/ preview links are themselves share credentials. Never commit either. Names, folders, sizes and documentTypes are the parts dedupe logic needs.",
+  "_capturedAt": "2026-08-30",
+  "_address": "1500 Bay Rd #1462, Miami Beach, FL",
+  "_captureId": "E4E8C071-9901-4F51-81A7-3D89B665E391",
+  "dealId": "db3a0a03-32fd-4a26-8aef-a644e93563ad",
+  "foldersScanned": 68,
+  "filesScanned": 97,
+  "matches": 97,
+  "traversalCapHit": false,
+  "resultsTruncated": false,
+  "files": [
+    {
+      "name": "1500bayrd_existing_rvt_part01.txt",
+      "folder": "/Plans and 3D/Revit",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_existing_rvt_part02.txt",
+      "folder": "/Plans and 3D/Revit",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_existing_rvt_part03.txt",
+      "folder": "/Plans and 3D/Revit",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_existing_rvt_part04.txt",
+      "folder": "/Plans and 3D/Revit",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_existing_rvt_part05.txt",
+      "folder": "/Plans and 3D/Revit",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_existing_rvt_part06.txt",
+      "folder": "/Plans and 3D/Revit",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_existing_rvt_part07.txt",
+      "folder": "/Plans and 3D/Revit",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_existing_rvt_part08.txt",
+      "folder": "/Plans and 3D/Revit",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_existing_rvt_part09.txt",
+      "folder": "/Plans and 3D/Revit",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 278624,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_existing.0001_rvt_part01.txt",
+      "folder": "/Plans and 3D/Revit",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_existing.0001_rvt_part02.txt",
+      "folder": "/Plans and 3D/Revit",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_existing.0001_rvt_part03.txt",
+      "folder": "/Plans and 3D/Revit",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_existing.0001_rvt_part04.txt",
+      "folder": "/Plans and 3D/Revit",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_existing.0001_rvt_part05.txt",
+      "folder": "/Plans and 3D/Revit",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_existing.0001_rvt_part06.txt",
+      "folder": "/Plans and 3D/Revit",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_existing.0001_rvt_part07.txt",
+      "folder": "/Plans and 3D/Revit",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_existing.0001_rvt_part08.txt",
+      "folder": "/Plans and 3D/Revit",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 176212,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500BayRd_Existing.0001.rvt",
+      "folder": "/Plans and 3D/Revit",
+      "documentType": "media",
+      "mimeType": "application/octet-stream",
+      "size": 5681152,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_existing.0002_rvt_part01.txt",
+      "folder": "/Plans and 3D/Revit",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_existing.0002_rvt_part02.txt",
+      "folder": "/Plans and 3D/Revit",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_existing.0002_rvt_part03.txt",
+      "folder": "/Plans and 3D/Revit",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_existing.0002_rvt_part04.txt",
+      "folder": "/Plans and 3D/Revit",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_existing.0002_rvt_part05.txt",
+      "folder": "/Plans and 3D/Revit",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_existing.0002_rvt_part06.txt",
+      "folder": "/Plans and 3D/Revit",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_existing.0002_rvt_part07.txt",
+      "folder": "/Plans and 3D/Revit",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_existing.0002_rvt_part08.txt",
+      "folder": "/Plans and 3D/Revit",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_existing.0002_rvt_part09.txt",
+      "folder": "/Plans and 3D/Revit",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 278624,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500BayRd_Existing.0002.rvt",
+      "folder": "/Plans and 3D/Revit",
+      "documentType": "media",
+      "mimeType": "application/octet-stream",
+      "size": 6569984,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500BayRd_Existing.rvt",
+      "folder": "/Plans and 3D/Revit",
+      "documentType": "media",
+      "mimeType": "application/octet-stream",
+      "size": 6569984,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_revit_hub_manifest.txt",
+      "folder": "/Plans and 3D/Revit",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 1937,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "revit_notes.txt",
+      "folder": "/Plans and 3D/Revit",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 1803,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500_bay_rd-_miami_beach-_fl.glb",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "media",
+      "mimeType": "",
+      "size": 0,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_floorplan_zip_a_part01.txt",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_floorplan_zip_a_part02.txt",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 139687,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_floorplan_zip_b_part01.txt",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_floorplan_zip_b_part02.txt",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 139688,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_floorplan.dxf",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "media",
+      "mimeType": "",
+      "size": 0,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_floorplan.pdf",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "document",
+      "mimeType": "application/pdf",
+      "size": 655826,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_floorplan.png",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "media",
+      "mimeType": "image/png",
+      "size": 0,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_floorplan.svg",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "media",
+      "mimeType": "",
+      "size": 0,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_mesh_material.mtl.txt",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 1962,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_mesh_obj_part01.txt",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 393210,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_mesh_obj_part02.txt",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 393210,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_mesh_obj_part03.txt",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 393210,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_mesh_obj_part04.txt",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 393210,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_mesh_obj_part05.txt",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 393210,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_mesh_obj_part06.txt",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 354590,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_mesh_obj_zip_part01.txt",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 516060,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_obj_texture_color_2.png",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "media",
+      "mimeType": "image/png",
+      "size": 0,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_obj_texture_color_3.png",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "media",
+      "mimeType": "image/png",
+      "size": 0,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_obj_texture_color_4.png",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "media",
+      "mimeType": "image/png",
+      "size": 0,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_obj_texture_color_5.png",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "media",
+      "mimeType": "image/png",
+      "size": 0,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_obj_texture_color.png",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "media",
+      "mimeType": "image/png",
+      "size": 0,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_obj_texture_wall_0_color.png",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "media",
+      "mimeType": "image/png",
+      "size": 0,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_obj_texture_wall_1_color.png",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "media",
+      "mimeType": "image/png",
+      "size": 0,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_obj_texture_wall_13_color.png",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "media",
+      "mimeType": "image/png",
+      "size": 0,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_obj_texture_wall_14_color.png",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "media",
+      "mimeType": "image/png",
+      "size": 0,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_obj_texture_wall_16_color.png",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "media",
+      "mimeType": "image/png",
+      "size": 0,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_obj_texture_wall_17_color.png",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "media",
+      "mimeType": "image/png",
+      "size": 0,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_obj_texture_wall_19_color.png",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "media",
+      "mimeType": "image/png",
+      "size": 0,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_obj_texture_wall_20_color.png",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "media",
+      "mimeType": "image/png",
+      "size": 0,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_obj_texture_wall_5_color.png",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "media",
+      "mimeType": "image/png",
+      "size": 0,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_pointcloud_laz_part01.txt",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_pointcloud_laz_part02.txt",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_pointcloud_laz_part03.txt",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_pointcloud_laz_part04.txt",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_pointcloud_laz_part05.txt",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 472104,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_pointcloud_ply_part01.txt",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_pointcloud_ply_part02.txt",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_pointcloud_ply_part03.txt",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_pointcloud_ply_part04.txt",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_pointcloud_ply_part05.txt",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_pointcloud_ply_part06.txt",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_pointcloud_ply_part07.txt",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_pointcloud_ply_part08.txt",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_pointcloud_ply_part09.txt",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_pointcloud_ply_part10.txt",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_pointcloud_ply_part11.txt",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_pointcloud_ply_part12.txt",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_pointcloud_ply_part13.txt",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_pointcloud_ply_part14.txt",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_pointcloud_ply_part15.txt",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_pointcloud_ply_part16.txt",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 384285,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_polycam_hub_manifest.txt",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 3353,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_roomdata.csv",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "document",
+      "mimeType": "application/vnd.ms-excel",
+      "size": 6599,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_spatialreport_part01_pages01-06.pdf",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "document",
+      "mimeType": "application/pdf",
+      "size": 3136530,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_spatialreport_part02_pages07-13.pdf",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "document",
+      "mimeType": "application/pdf",
+      "size": 1583702,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_spatialreport_part03_pages14-19.pdf",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "document",
+      "mimeType": "application/pdf",
+      "size": 1308352,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_spatialreport_pdf_part01.txt",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_spatialreport_pdf_part02.txt",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_spatialreport_pdf_part03.txt",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_spatialreport_pdf_part04.txt",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_spatialreport_pdf_part05.txt",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_spatialreport_pdf_part06.txt",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_spatialreport_pdf_part07.txt",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_spatialreport_pdf_part08.txt",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 786420,
+      "updatedAt": "08/24/2026"
+    },
+    {
+      "name": "1500bayrd_spatialreport_pdf_part09.txt",
+      "folder": "/Plans and 3D/Polycam",
+      "documentType": "document",
+      "mimeType": "text/plain",
+      "size": 69227,
+      "updatedAt": "08/24/2026"
+    }
+  ]
+}
